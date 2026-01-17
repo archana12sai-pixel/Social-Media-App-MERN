@@ -1,0 +1,1 @@
+export default function App(){return <h2>Social Media App</h2>}
